@@ -15,6 +15,6 @@ Place `imdb_reviews.csv` in the `data/` folder.
 
 ## ⚙️ Setup
 ```bash
-git clone https://github.com/yourusername/movie-sentiment-analyzer.git
+git clone https://github.com/ArpitPattiwar/movie-sentiment-analyzer.git
 cd movie-sentiment-analyzer
 pip install -r requirements.txt
